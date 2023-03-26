@@ -1,0 +1,12 @@
+.country-card {
+    display: flex;
+    align-items: center;
+}
+
+.country-flag {
+    margin-right: 20px;
+}
+
+h1 {
+    font-size: 30px;
+}
